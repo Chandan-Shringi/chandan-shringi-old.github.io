@@ -1,7 +1,7 @@
 # Hello World!
 ## Welcome to my website
 
-![Image](https://github.com/Chandan-Shringi/chandan-shringi.github.io/blob/main/linkedin_dp.png)
+![linkedin_dp](https://user-images.githubusercontent.com/67918522/104702652-51fb2580-573c-11eb-92a6-13598cd29d12.png)
 
 Connect with me:
 - [Github](https://github.com/Chandan-Shringi)
