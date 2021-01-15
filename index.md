@@ -7,7 +7,20 @@ I am a student of Biotechnology at University School of Biotechnology, GGSIPU.
 Pursuing B.Tech in Biotechnology. Skilled in programming, databases and biotechnology lab techniques.
 My interest lie in bioinformatics, computational biology and systems  biology.
 
-Connect: | [Github](https://github.com/Chandan-Shringi) | [Facebook](http://facebook.com/chandan.shringi.7) | [Linkedin](https://linkedin.com/in/c-shringi) | [Instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd)
+#### RESEARCH EXPERIENCE
+  - In silico identification and validation of miRNA and their ABI-3 specific targets in *Oryza sativa Indica* under abiotic stress.
+  - Bioremediation capability of bacteria *Cellulosimicrobium sps*.
+  
+#### EDUCATION
+  - University School Of Biotechnology, GGSIPU 
+      B.Tech (Biotech) [2018-2022] 
+  - Kendriya Vidyalaya A.F.S.Tughlakabad , New Delhi
+    
+#### ACHIEVEMENTS
+The Bharat Scouts and Guides Rashtrapati Scout certificate from **The President of India** .
+
+Connect: | [Email](chandanshringi@gmail.com) | [Github](https://github.com/Chandan-Shringi) | [Linkedin](https://linkedin.com/in/c-shringi) 
+Social: | [Instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd) | [Facebook](http://facebook.com/chandan.shringi.7)
 
 ## Welcome to GitHub Pages
 
