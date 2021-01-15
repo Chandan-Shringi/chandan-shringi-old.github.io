@@ -4,10 +4,10 @@
 ![Image](https://github.com/Chandan-Shringi/chandan-shringi.github.io/blob/main/linkedin_dp.png)
 
 Connect with me:
-Github: [Github](https://github.com/Chandan-Shringi)
-Facebook: [Facebook](http://facebook.com/chandan.shringi.7)
-Linkedin: [linkedin](www.linkedin.com/in/c-shringi)
-Instagram: [instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd)
+- [Github](https://github.com/Chandan-Shringi)
+- [Facebook](http://facebook.com/chandan.shringi.7)
+- [Linkedin](www.linkedin.com/in/c-shringi)
+- [Instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd)
 
 ## Welcome to GitHub Pages
 
