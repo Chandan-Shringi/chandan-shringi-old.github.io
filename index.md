@@ -1,12 +1,16 @@
 # Hello World!
 ## Welcome to my website
-
 ![linkedin_dp](https://user-images.githubusercontent.com/67918522/104702652-51fb2580-573c-11eb-92a6-13598cd29d12.png)
+
+### About Me
+    I am a student of Biotechnology at University School of Biotechnology, GGSIPU.
+    Pursuing B.Tech in Biotechnology. Skilled in programming, databases and biotechnology lab techniques.
+    My interest lie in bioinformatics, computational biology and systems  biology.
 
 Connect with me:
 - [Github](https://github.com/Chandan-Shringi)
 - [Facebook](http://facebook.com/chandan.shringi.7)
-- [Linkedin](www.linkedin.com/in/c-shringi)
+- [Linkedin](https://linkedin.com/in/c-shringi)
 - [Instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd)
 
 ## Welcome to GitHub Pages
