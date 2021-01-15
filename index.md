@@ -3,6 +3,12 @@
 
 ![Image](https://github.com/Chandan-Shringi/chandan-shringi.github.io/blob/main/linkedin_dp.png)
 
+Connect with me:
+Github: [Link](https://github.com/Chandan-Shringi)
+Facebook: [Link](http://facebook.com/chandan.shringi.7)
+Linkedin: [Link](www.linkedin.com/in/c-shringi)
+Instagram: [Link](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chandan-Shringi/chandan-shringi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
