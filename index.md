@@ -20,7 +20,7 @@ My interest lie in bioinformatics, computational biology and systems  biology.
 The Bharat Scouts and Guides Rashtrapati Scout certificate from **The President of India** .
 
 #### Résumé
-I'll be glad if you spare some time for my [résumé](https://drive.google.com/file/d/1jMAc28UAlnqebq8QR6aR9odGvcDVpr_u/view?usp=sharing)
+I'll be glad if you spare some time for my [résumé](https://drive.google.com/file/d/1jMAc28UAlnqebq8QR6aR9odGvcDVpr_u/view?usp=sharing).
 
 
 
@@ -31,5 +31,5 @@ I'll be glad if you spare some time for my [résumé](https://drive.google.com/f
 
 
 
-Connect: | [Email](chandanshringi@gmail.com) | [Github](https://github.com/Chandan-Shringi) | [Linkedin](https://linkedin.com/in/c-shringi) 
+Connect: | [Email](mailto:chandanshringi@gmail.com) | [Github](https://github.com/Chandan-Shringi) | [Linkedin](https://linkedin.com/in/c-shringi) 
 Social: | [Instagram](https://instagram.com/chandan_shringi?igshid=83zjw5usx0yd) | [Facebook](http://facebook.com/chandan.shringi.7) | Telegram: @Chandan_Shringi
